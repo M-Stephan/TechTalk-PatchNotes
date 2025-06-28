@@ -45,7 +45,7 @@
 > - [Fixed] : corrections  
 > - [Removed] : suppressions  
 > - [Security] : sécurité  
-> - [Deprecated] : fonctionnalités en fin de vie"
+> - [Deprecated] : fonctionnalités en fin de vie
 
 ---
 
